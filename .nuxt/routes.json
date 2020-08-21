@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "E:\\\\lagouStudy\\\\nuxtDemo\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "E:\\\\lagouStudy\\\\nuxtDemo\\\\pages\\\\home",
+        "_name": "_27d1a521"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "E:\\\\lagouStudy\\\\nuxtDemo\\\\pages\\\\login",
+        "_name": "_5ac97132"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "E:\\\\lagouStudy\\\\nuxtDemo\\\\pages\\\\login",
+        "_name": "_5ac97132"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "E:\\\\lagouStudy\\\\nuxtDemo\\\\pages\\\\profile",
+        "_name": "_720dda27"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "E:\\\\lagouStudy\\\\nuxtDemo\\\\pages\\\\settings",
+        "_name": "_60ed7b65"
+      },
+      {
+        "path": "/edit",
+        "name": "edit",
+        "component": "E:\\\\lagouStudy\\\\nuxtDemo\\\\pages\\\\edit",
+        "_name": "_27d01e4c"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "E:\\\\lagouStudy\\\\nuxtDemo\\\\pages\\\\article",
+        "_name": "_58d81d74"
+      }
+    ],
+    "_name": "_ffdeba28"
+  }
+]
